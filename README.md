@@ -6,7 +6,7 @@ I'm Ramzi from Germany, currently enrolled in the Data Science and AI track at M
 * 🐍 Python
 * 💾 SQL
 * 📊 Tableau
-* 🤖 Machine Learning and Deep Learning
+* 🤖 Machine Learning & Deep Learning
 
 - 🔭 I’m currently working on a terminal for finance professionals. 
 
