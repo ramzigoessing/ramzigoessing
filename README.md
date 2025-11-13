@@ -1,4 +1,4 @@
-![Data Science and Ai]((https://github.com/ramzigoessing/ramzigoessing/blob/main/banner.jpg))
+![Data Science and Ai](https://github.com/ramzigoessing/ramzigoessing/blob/main/banner.jpg)
 # Ramzi Gößing
 I'm Ramzi from Germany, currently enrolled in the Data Science and AI track at Masterschool. I'm highly interested in time series analysis and currently working on a project to model macroeconomic data and extract valuable insights from it.
 
